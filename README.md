@@ -1,4 +1,4 @@
-Olá, Eu eu sou Edvaldo jonas✔
+Olá, Eu eu sou Edvaldo 🤟 
 
 ![Edvaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=Edvaldojs22&show_icons=true&theme=radical)
 

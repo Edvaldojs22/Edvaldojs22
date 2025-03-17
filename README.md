@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=11e7e7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Edvaldo;Seja+bem+vindo+ao+meu+github:%29)](https://git.io/typing-svg)
-<p style="color: #11e7e7; font-size: 19; text-align: center"> Fique à vontade para navegar, clonar e até mesmo deixar suas sugestões. Se surgir alguma dúvida ou se quiser trocar ideias, estou à disposição para ajudar 😸</p>
+<p style="color: #11e7e7; font-size: 19; text-align: center"> Fique à vontade para navegar. Se surgir alguma dúvida ou se quiser trocar ideias, estou à disposição para ajudar 😸</p>
 
 
 <div>

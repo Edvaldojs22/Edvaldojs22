@@ -1,22 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=81abff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=11e7e7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Edvaldo;Seja+bem+vindo+ao+meu+github:%29)](https://git.io/typing-svg)
-<p style="color: #11e7e7; font-size: 19; text-align: center"> Fique à vontade para navegar. Se surgir alguma dúvida ou se quiser trocar ideias, estou à disposição para ajudar 😸</p>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=81abff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Edvaldo;Seja+bem+vindo+ao+meu+GitHub+%f0%9f%98%84)](https://git.io/typing-svg)
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Edvaldojs22&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvaldojs22&layout=compact&langs_count=16&theme=nightowl"/>
+✨ Fique à vontade para explorar meus projetos. Se tiver dúvidas ou quiser trocar ideias, estou por aqui!
+
+<br/>
+
 </div>
-<br>
-<br>
-  <div align= "center">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer"/>
+### ⚙️ &nbsp;**Estatísticas GitHub**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edvaldojs22&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvaldojs22&layout=compact&langs_count=8&theme=nightowl"/>
+</div>
+
+---
+
+### 🛠️ &nbsp;**Tecnologias que uso**
+<div align="center">
+  <img src="https://media.tenor.com/hVX6r4kDu00AAAAi/ai-grok.gif" width="200px" alt="Programador animado" style="border-radius: 50%; border: 3px solid red;"/>
+</div>
+
+<div align="center" style="margin-top: 10px">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=81abff&height=120&section=footer"/>

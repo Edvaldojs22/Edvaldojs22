@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Edvaldo;Seja+bem+vindo+ao+meu+GitHub+%f0%9f%98%84)](https://git.io/typing-svg)
 <div align="center">
-  <img src="https://i.imgur.com/N7BopQF.gif" width="200px" alt="Programador animado" style="border-radius: 50%; border: 3px solid red;"/>
+  <img src="https://i.imgur.com/N7BopQF.gif" width="330px" alt="Programador animado" style="border-radius: 50%; border: 3px solid red;"/>
 </div>
 
 

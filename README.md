@@ -9,6 +9,7 @@
 
 
 ✨ Fique à vontade para explorar meus projetos. Se tiver dúvidas ou quiser trocar ideias, estou por aqui!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff3000&height=120&section=footer"/>
 
 <br/>
 

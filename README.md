@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=81abff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff3000&height=120&section=header"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=81abff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Edvaldo;Seja+bem+vindo+ao+meu+GitHub+%f0%9f%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Edvaldo;Seja+bem+vindo+ao+meu+GitHub+%f0%9f%98%84)](https://git.io/typing-svg)
 
 ✨ Fique à vontade para explorar meus projetos. Se tiver dúvidas ou quiser trocar ideias, estou por aqui!
 
@@ -23,7 +23,7 @@
 
 ### 🛠️ &nbsp;**Tecnologias que uso**
 <div align="center">
-  <img src="https://media.tenor.com/hVX6r4kDu00AAAAi/ai-grok.gif" width="200px" alt="Programador animado" style="border-radius: 50%; border: 3px solid red;"/>
+  <img src="https://i.imgur.com/N7BopQF.gif" width="200px" alt="Programador animado" style="border-radius: 50%; border: 3px solid red;"/>
 </div>
 
 <div align="center" style="margin-top: 10px">
@@ -37,4 +37,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=81abff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff3000&height=120&section=footer"/>

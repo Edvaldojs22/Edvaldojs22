@@ -3,6 +3,10 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Edvaldo;Seja+bem+vindo+ao+meu+GitHub+%f0%9f%98%84)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://i.imgur.com/N7BopQF.gif" width="200px" alt="Programador animado" style="border-radius: 50%; border: 3px solid red;"/>
+</div>
+
 
 ✨ Fique à vontade para explorar meus projetos. Se tiver dúvidas ou quiser trocar ideias, estou por aqui!
 
@@ -22,9 +26,6 @@
 ---
 
 ### 🛠️ &nbsp;**Tecnologias que uso**
-<div align="center">
-  <img src="https://i.imgur.com/N7BopQF.gif" width="200px" alt="Programador animado" style="border-radius: 50%; border: 3px solid red;"/>
-</div>
 
 <div align="center" style="margin-top: 10px">
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>

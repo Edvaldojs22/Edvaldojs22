@@ -1,12 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff3000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff3000&height=120&section=header&text=Edvaldo%20Jonas&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Edvaldo!;Desenvolvedor+Full+Stack+apaixonado+por+tecnologia+🚀;Seja+bem-vindo+ao+meu+GitHub+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3000&size=32&center=true&vCenter=true&width=1000&lines=👋+Olá,+sou+Edvaldo+Jonas!;💻+Desenvolvedor+Full+Stack;🚀+Apaixonado+por+tecnologia+e+inovação;😄+Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://i.imgur.com/N7BopQF.gif" width="330px" alt="Programador animado" style="border-radius: 50%; border: 3px solid red;"/>
+<img src="https://i.imgur.com/N7BopQF.gif" width="330px" alt="Programador animado" style="border-radius: 50%; border: 3px solid #ff3000;"/>
 
 </div>
 
@@ -14,45 +12,58 @@
 
 ## ✨ Sobre mim
 
-Olá! Sou **Edvaldo**, desenvolvedor **Full Stack** com foco em criar soluções modernas, eficientes e escaláveis. Tenho paixão por transformar ideias em código e estou sempre em busca de novos desafios e aprendizados.
+Sou **Edvaldo Jonas**, um **Desenvolvedor Full Stack** focado em construir **soluções modernas, rápidas e seguras**.  
+Tenho paixão por criar experiências digitais que unem **design, tecnologia e propósito**.  
+Adoro transformar **ideias em projetos reais**, com código limpo e boas práticas.
 
-- 📚 Estudando novas tecnologias e boas práticas de desenvolvimento
-- 🤝 Aberto a colaborações e projetos interessantes
-- 🎯 Foco em performance, usabilidade e código limpo
+💡 **O que me move:** aprender, inovar e impactar através da tecnologia.  
+🔥 **O que busco:** crescimento constante e desafios que ampliem minha visão como desenvolvedor.  
+
+- 🧠 Sempre aprendendo novas tecnologias e arquiteturas  
+- 🤝 Colaborando em projetos e contribuindo para a comunidade  
+- 🎯 Foco em performance, escalabilidade e qualidade  
 
 ---
 
-## ⚙️ Estatísticas GitHub
+## ⚙️ Stack de Tecnologias
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvaldojs22&layout=compact&langs_count=8&theme=nightowl"/>
+
+### 💻 **Front-end**
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite" />
+
+### ⚙️ **Back-end**
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+
+### 🗄️ **Banco de Dados**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### ☁️ **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
 </div>
 
----
 
-## 🛠️ Tecnologias que uso
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edvaldojs22&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edvaldojs22&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvaldojs22&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
-
----
 
 ## 📫 Contato
 
-Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, estou por aqui!
+<div align="center">
 
-- 📧 jonas.edvaldo.10@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/edvaldo-jonas-1b1899255/)  
-- 🌐 [Portfólio](https://edvaldojs22.github.io/Portfolioej/)
+📧 **E-mail:** [jonas.edvaldo.10@gmail.com](mailto:jonas.edvaldo.10@gmail.com)  
+💼 **LinkedIn:** [Edvaldo Jonas](https://www.linkedin.com/in/edvaldo-jonas-1b1899255/)  
+🌐 **Portfólio:** [edvaldojs22.github.io/Portfolioej](https://edvaldojs22.github.io/Portfolioej/)  
+
+
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff3000&height=120&section=footer"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff3000&height=120&section=footer"/>
+</div>

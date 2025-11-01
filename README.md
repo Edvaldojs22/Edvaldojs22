@@ -27,21 +27,16 @@ Adoro transformar **ideias em projetos reais**, com código limpo e boas prátic
 
 ## ⚙️ Stack de Tecnologias
 
-<div align="center">
+<div align="center" style="background:#1e1e2f; padding:20px; border-radius:15px;">
 
-### 💻 **Front-end**
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite" />
+### 🌟 💻 Front-end • ⚙️ Back-end • 🗄️ Banco de Dados • ☁️ Cloud & DevOps 🌟
 
-### ⚙️ **Back-end**
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+<br>
 
-### 🗄️ **Banco de Dados**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-### ☁️ **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,nodejs,express,java,spring,mysql,mongodb,aws,docker,git,github&perline=8" style="border-radius:10px; max-width:90%;"/>
 
 </div>
+
 
 
 ## 📊 Estatísticas do GitHub

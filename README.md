@@ -43,7 +43,6 @@ Adoro transformar **ideias em projetos reais**, com código limpo e boas prátic
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edvaldojs22&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edvaldojs22&theme=radical&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvaldojs22&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
